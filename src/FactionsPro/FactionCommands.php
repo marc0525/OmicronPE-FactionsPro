@@ -1,6 +1,6 @@
 <?php
 
-namespace FactionsPro;
+namespace OmicronPE Factions;
 
 use pocketmine\command\CommandSender;
 use pocketmine\command\Command;
