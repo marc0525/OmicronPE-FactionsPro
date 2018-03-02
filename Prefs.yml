@@ -13,7 +13,8 @@ PowerGainedPerAlly: 100
 TheDefaultPowerEveryFactionStartsWith: 0
 EnableOverClaim: true
 AllyLimitPerFaction: 7
-ClaimWorlds: []
+ClaimWorlds:
+-OmicronPE
 AllowChat: true
 AllowFactionPvp: false
 AllowAlliedPvp: false
