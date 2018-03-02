@@ -1,6 +1,6 @@
 <?php
 
-namespace FactionsPro;
+namespace OmicronPE Factions;
 
 use pocketmine\event\Listener;
 use pocketmine\event\block\BlockBreakEvent;
